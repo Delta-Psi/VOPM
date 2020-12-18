@@ -1,7 +1,7 @@
 # VOPM
 This is a reupload of the source code of the VOPM 0.17 VST plugin by Sam, which is no longer available outside of online archives.
 
-I do not own this code. If you are the original author and you object to this archived repository, please message me!
+*I do not own this code.* If you are the original author and you object to this archived repository, please message me!
 
 ## License
 Taken from the original site:
